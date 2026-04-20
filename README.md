@@ -6,7 +6,7 @@ A TCP Connect port scanner written in Python demonstrating how tools like nmap w
 
 Every computer has 65,535 ports. A port scanner probes each one to find which services are listening.
 
-This scanner uses a **TCP Connect Scan** — the same technique as `nmap -sT`:
+This scanner uses a **TCP Connect Scan** the same technique as `nmap -sT`:
 
 1. **SYN** → scanner knocks on the port
 2. **SYN-ACK** ← port is open and responds
