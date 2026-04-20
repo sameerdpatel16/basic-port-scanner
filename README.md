@@ -1,6 +1,6 @@
 # Basic Port Scanner
 
-A TCP Connect port scanner written in Python — demonstrating how tools like nmap work at a fundamental level.
+A TCP Connect port scanner written in Python demonstrating how tools like nmap work at a fundamental level.
 
 ## How It Works
 
